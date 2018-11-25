@@ -2,21 +2,35 @@
 
 Fiche Bristol du cours sur Git et Github.
 
+# Sommaire
+
+- [Git](#git)
+  - [Les branches](#les-branches)
+  - [Guide d'installation](INSTALL-GIT.md)
+  - [Cheatsheet](CHEATSHEET-GIT.md)
+- [Github](#github)
+  - [Dépôt distant](#depot-distant)
+  - [Issues](#issues)
+  - [Pull request](#pull-request)
+  - [Wiki](#wiki)
+
 # Git
 
 Git va vous permettre de "versionner" votre code càd conserver un historique des modifications dans le temps.
 
 ![Timeline](images/timeline.png)
 
+## Les branches
+
 Git va aussi vous permettre de travailler sur des branches distinctes afin d'optimiser le travail en équipe et de réduire les conflits.
 
-## Sans branches:
+### Sans branches:
 
 ![Timeline](images/conflits.png)
 
 Ici, le fait d'avoir plusieurs personnes sur la même branche risque de créer des conflits pour chaque ajout sur le code commun.
 
-## Avec branches:
+### Avec branches:
 
 ![Banches](images/branches.png)
 
@@ -29,6 +43,7 @@ Dans la réalité, ormis les branches communes, vos branches porteront les noms 
 ![Features](images/features.png)
 
 Il y aura donc beaucoup plus de branches que de développeurs, et à chaque fois qu'une branche est fusionné (merge en anglais) avec la branche commune il sera plus facile de savoir ce qui vient d'être ajouté.
+
 
 # Github
 
