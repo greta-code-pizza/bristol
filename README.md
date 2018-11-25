@@ -3,4 +3,7 @@ Ce dépôt contient des ressources permettant de réviser et d'approfondir les c
 ## Sujets
 
 - [Git et Github](./git-github/BRISTOL.md)
+- [Sass](./sass/BRISTOL.md)
+- [Bootstrap](./bootstrap/BRISTOL.md)
+
 
