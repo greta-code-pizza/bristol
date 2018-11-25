@@ -85,8 +85,17 @@ Une partie très importante, le contenu du `README.md`. C'est ici qu'on met tout
 
 [En savoir plus sur la syntaxe markdown (`.md`)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+## Issues
 
+TODO...
 
+## Pull request
+
+TODO...
+
+## Wiki
+
+TODO...
 
 
 
