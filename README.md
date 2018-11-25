@@ -1,0 +1,6 @@
+Ce dépôt contient des ressources permettant de réviser et d'approfondir les cours que nous avons eu ensemble.
+
+## Sujets
+
+- [Git et Github](./git-github/BRISTOL.md)
+
