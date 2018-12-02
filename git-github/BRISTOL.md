@@ -6,8 +6,8 @@ Fiche Bristol du cours sur Git et Github.
 
 - [Git](#git)
   - [Les branches](#les-branches)
-  - [Guide d'installation](INSTALL-GIT.md)
-  - [Cheatsheet](CHEATSHEET-GIT.md)
+  - [Guide d'installation](INSTALL.md)
+  - [Cheatsheet](CHEATSHEET.md)
 - [Github](#github)
   - [Dépôt distant](#depot-distant)
   - [Issues](#issues)
@@ -28,13 +28,13 @@ Git va aussi vous permettre de travailler sur des branches distinctes afin d'opt
 
 ![Timeline](images/conflits.png)
 
-Ici, le fait d'avoir plusieurs personnes sur la même branche risque de créer des conflits pour chaque ajout sur le code commun.
+Ici, le fait d'avoir plusieurs personnes sur la même branche risque de créer des conflits pour chaques ajouts sur le code commun.
 
 ### Avec branches:
 
 ![Banches](images/branches.png)
 
-Dans la même configuration mais en ayant une branche par développeur on réduit le nombre de conflits.
+Dans la même configuration mais en ayant une branche par développeur, on réduit le nombre de conflits.
 
 Ici, j'ai fais deux branches "janette" et "john" pour comprendre la notion de conflits.
 

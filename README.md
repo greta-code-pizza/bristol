@@ -5,5 +5,6 @@ Ce dépôt contient des ressources permettant de réviser et d'approfondir les c
 - [Git et Github](./git-github/BRISTOL.md)
 - [Sass](./sass/BRISTOL.md)
 - [Bootstrap](./bootstrap/BRISTOL.md)
+- [JQuery](./jquery/BRISTOL.md)
 
 
