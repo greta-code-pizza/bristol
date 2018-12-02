@@ -14,7 +14,7 @@ Ce Bristol permet d'avoir un accès rapide aux informations les plus courantes, 
   - [Manipulation](#manipulation)
   - [Animation](#animation)
   - [Taille et position](#taille-et-position)
-
+- [Les évènements](#les-evenements)
 
 ## Les Sélecteurs
 
@@ -118,6 +118,14 @@ $('p').after('<h1>Hello</h1>')
 <!-- after -->
 ```
 
+#### Style
+
+```js
+// change la couleur du texte dans p
+// fonctionne avec la plupart des propriétés css
+$('p').css('color', 'red')
+```
+
 ### Animation
 
 ```js
@@ -152,4 +160,34 @@ $('header').width(100)
 
 // Récupère la position d'un élément
 $('footer').offset()
+```
+
+### Évènements
+
+Les évènements vont vous permettre pas mal de lignes en comparaison `addEventListener`.
+
+#### Liste des évenements
+
+```js
+.click()
+.scroll()
+.hover()
+.mouseover()
+.mouseout()
+.mouseenter()
+.mouseleave()
+.keydown()
+.keyup()
+.keypress()
+.focus()
+.blur()
+.resize()
+```
+
+#### Example
+
+```js
+$('button').click(function () {
+  // Code à executer au moment du click
+});
 ```
