@@ -4,10 +4,15 @@ Fiche Bristol du cours sur Git et Github.
 
 # Sommaire
 
+
 - [Git](#git)
-  - [Les branches](#les-branches)
   - [Guide d'installation](INSTALL.md)
-  - [Cheatsheet](CHEATSHEET.md)
+- [Ouvrir le terminal](#ouvrir-le-terminal)
+  - [Windows](#windows)
+  - [Mac](#mac)
+  - [Linux](#linux)
+- [Les branches](#les-branches)
+- [Cheatsheet Git](CHEATSHEET.md)
 - [Github](#github)
   - [Dépôt distant](#depot-distant)
   - [Issues](#issues)
@@ -19,6 +24,28 @@ Fiche Bristol du cours sur Git et Github.
 Git va vous permettre de "versionner" votre code càd conserver un historique des modifications dans le temps.
 
 ![Timeline](images/timeline.png)
+
+# Ouvrir le terminal
+
+Afin de versionner votre projet vous aurez certainement besoin d'utiliser un invite de commande !
+
+## Windows
+
+:warning: Sous windows il faut lancer Git Bash afin de versionner son projet.
+
+![Git bash](images/git-bash.png)
+
+## Mac
+
+Sous Mac, vous pouvez ouvrir le terminal avec Spotlight comme ci-dessous
+
+![Terminal](images/terminal.png)
+
+## Linux
+
+Sous Linux, le lancement dépend de votre distribution mais vous pouvez généralement en tapant la commande `Ctrl + Alt + T`
+
+![Terminal](images/linux-terminal.png)
 
 ## Les branches
 
