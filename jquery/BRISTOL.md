@@ -79,3 +79,77 @@ $('a:contains(Accueil)')
 ```
 
 ## Les méthodes
+
+Une fois le.s élement.s sélectionné, vous pouvez appliquer plusieurs types de méthodes dont voici les plus courants.
+
+### Manipulation
+
+#### Substitution
+
+```js
+$('p').replaceWith('<h1>Hello</h1>')
+```
+
+```html
+<!-- avant substitution -->
+<p>Hello</p>
+
+<!-- après substitution -->
+<h1>Hello</h1>
+```
+
+#### Avant et après
+
+```js
+// Le lien contenant "Accueil"
+$('p').before('<h1>Hello</h1>')
+$('p').prepend('Hello')
+$('p').append('Hello')
+$('p').after('<h1>Hello</h1>')
+```
+
+```html
+<!-- before -->
+ <p>
+  <!-- prepend -->
+  content
+  <!-- append -->
+ </p>
+<!-- after -->
+```
+
+### Animation
+
+```js
+// Disparait en 1000ms soit 1sec
+$('li').fadeOut(1000)
+
+// Apparait en 1000ms soit 1sec
+$('li').fadeIn(1000)
+
+// Les éléments invisible deviennent visible et
+// et vice et versa
+$('li').toggle(1000)
+
+// L'élément disparait avec un effet slide vers le haut
+$('li').slideUp(1000)
+```
+
+### Taille et position
+
+```js
+// Retourne la hauteur en px
+$('header').height()
+
+// Retourne la largeur en px
+$('header').width()
+
+// Redéfinit la hauteur en px
+$('header').height(100)
+
+// Redéfinit la largeur en px
+$('header').width(100)
+
+// Récupère la position d'un élément
+$('footer').offset()
+```
