@@ -4,6 +4,8 @@
   - [Configuration de Git](#configuration-de-git)
   - [Création d'un projet](#creation-dun-projet)
   - [Projet existant](#projet-existant)
+  - [Les commandes de base](#les-commandes-de-base)
+  - [Les branches](#les-branches)
 
 
 # Les commandes
@@ -42,7 +44,7 @@ Vous pouvez cloner en utilisant un lien HTTPS ou SSH. Pour utiliser une connexio
 
 Dans le cas d'une connexion HTTPS vous aurez besoin d'entrer vos données de connexion à Github.
 
-## Les commandes de bases
+## Les commandes de base
 
 | Commandes                                | Description                                    |
 | ---------------------------------------- | --------------------------------------------------------- |
@@ -51,3 +53,11 @@ Dans le cas d'une connexion HTTPS vous aurez besoin d'entrer vos données de con
 | git commit -m "description"              | Versionne les modifications en y associant un message  |
 | git push                                 | Envoie les modifications vers le dépôt distant (github) |
 | git pull                                 | Récupère les modifications depuis le dépôt distant  |
+
+## Les branches
+
+| Commandes                                | Description                                   |
+| ---------------------------------------- | --------------------------------------------- |
+| git branch [nom]                         | Créer une branche depuis la branche courante  |
+| git checkout [nom]                       | Aller sur la branche specifié                 |
+| git checkout -b [nom]                    | Fait les deux commandes précédentes           |
