@@ -30,22 +30,42 @@ La différence principale entre les approches *séquentielle* et *agiles* se sit
 
 Ci-dessous, une liste de différences entre ces approches*:
 
-| Thèmes           | Approche séquentielle          | Approche agile                  |
-| ---------------- | ------------------------------ | ------------------------------- |
-| Cycle de vie     | Défini et strict               | Itératif et incrémental         |
-|                  |                                |                                 |
-| ---------------- | ------------------------------ | ------------------------------- |
-| Spécifications   | Exhaustives, lors des phases   | Outils de communication         |
-|                  | de conception                  | permet la réa du cycle courant  |
-| ---------------- | ------------------------------ | ------------------------------- |
-| Équipe           | Sous la direction d'un CdP*1   | Responsabilisée par des process |
-|                  |                                | forte exigence de communication |
-| ---------------- | ------------------------------ | ------------------------------- |
-| Suivi            | Analyse des écarts             | Priorisation et gestion des     |
-|                  |                                | risques                         |
-| ---------------- | ------------------------------ | ------------------------------- |
-| Mesure du succès | Respect du CdC*2               | Satisfaction client             |
-|                  |                                |                                 |
+<table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>Approche séquentielle</th>
+          <th>Approche agile</th>
+      </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td>Cycle de vie</td>
+            <td>Défini et strict </td>
+            <td>Itératif et incrémental </td>
+        </tr>
+        <tr>
+            <td>Spécifications</td>
+            <td>Exhaustives, lors des phases de conception</td>
+            <td>Outils de communication permet la réalisation du cycle courant</td>
+        </tr>
+        <tr>
+            <td>Équipe</td>
+            <td>Sous la direction d'un.e chef.fe de projet</td>
+            <td>Responsabilisée par des process avec forte exigence de communication</td>
+        </tr>
+        <tr>
+            <td>Suivi</td>
+            <td>Analyse des écarts avec le cahier des charges</td>
+            <td>Priorisation et gestion des risques</td>
+        </tr>
+        <tr>
+            <td>Mesure du succès</td>
+            <td>Respect du cahier des charges</td>
+            <td>Satisfaction client</td>
+        </tr>
+    </tbody>
+</table>
 
 
 *1 CdP: Chef de projet
