@@ -67,10 +67,6 @@ Ci-dessous, une liste de différences entre ces approches*:
     </tbody>
 </table>
 
-
-*1 CdP: Chef de projet
-*2 CdC: Cahier des Charges
-
 ## Ressources utiles
 
 [Le manifeste agile](https://agilemanifesto.org/iso/fr/manifesto.html)
