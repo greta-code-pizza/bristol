@@ -60,7 +60,7 @@ Plutôt que d'essayer de réaliser un produit rêvé en une étape, l'agilité p
 
 ### Quelques différences
 
-Ci-dessous, une liste de différences entre ces approches*:
+Ci-dessous, une liste de différences entre les deux approches*:
 
 <table>
   <thead>
