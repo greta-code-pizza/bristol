@@ -6,6 +6,7 @@ Ce dépôt contient des ressources permettant de réviser et d'approfondir les c
 - [Sass](./sass/BRISTOL.md)
 - [Bootstrap](./bootstrap/BRISTOL.md)
 - [JQuery](./jquery/BRISTOL.md)
+- [JQuery](./methodo/BRISTOL.md)
 - [Tests Unitaires avec PHPUnit](./tests/BRISTOL.md)
 
 
