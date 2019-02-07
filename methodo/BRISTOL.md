@@ -52,7 +52,7 @@ Cette phase va permettre de vérifier que l'application fonctionne bien comme sp
 
 L'approche agile cherche à s'adapter aux besoins changeants des clients dans un monde qui évolue très vite. Pour y arriver, elle adopte une approche itératif et incrémental résumé par cette image:
 
-![illustration de l'agilité](/images/agile.jpg)
+![illustration de l'agilité](images/agile.jpg)
 
 
 
