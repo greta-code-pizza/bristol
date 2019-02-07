@@ -6,9 +6,10 @@ Ce Bristol permet de dégrossir ce vaste sujet qu'est la méthodologie de projet
 
 - [La méthodo](#la-methodo)
 - [Les approches](#les-approches)
-  - [Approche séquentielle](#l-approche-sequentielle)
-  - [Approche agile](#l-approche-sequentielle)
-  - [Tableau des différences](#tableau-des-differences)
+  - [Approche séquentielle](#approche-séquentielle)
+  - [Approche agile](#approche-agile)
+  - [Quelques différences](#quelques-différences)
+- [Outils](#outils)
 - [Ressources utiles](#ressources-utiles)
 
 ## La méthodo
@@ -23,12 +24,11 @@ Cela aura un impact notamment sur plusieurs aspects du projet:
 
 Il existe deux grandes approches, *séquentielle* et *agile* donnant naissances à plusieurs méthodologies de projet.
 
-
 ## Les approches
 
 La différence principale entre les approches *séquentielle* et *agiles* se situe au niveau de la définition du projet. L'approche *séquentielle* considère la définition d'un produit fini quand l'approche *agile* cherche à s'adapter à des besoins changeants.
 
-## L'approche séquentielle
+## Approche séquentielle
 
 Les projets en approche séquentielle peuvent se décomposer en quatre grandes phases réalisé dans cet ordre:
 
@@ -48,15 +48,17 @@ C'est au tour des développeurs de réaliser l'application à l'aide des documen
 
 Cette phase va permettre de vérifier que l'application fonctionne bien comme spécifié lors de la définition du projet.
 
-## L'approche agile
+## Approche agile
 
 L'approche agile cherche à s'adapter aux besoins changeants des clients dans un monde qui évolue très vite. Pour y arriver, elle adopte une approche itératif et incrémental résumé par cette image:
 
 ![illustration de l'agilité](images/agile.jpg)
 
+Plutôt que d'essayer de réaliser un produit rêvé en une étape, l'agilité préconise de commencer par un produit minimum viable (MVP) qu'on fera évoluer dans le temps. Cette approche permet de limiter les risques, de s'adapter au marché et de faire évoluer son idée en la concrétisant.
 
+![Cycles avec MVP](images/mvp.png)
 
-### Tableau des différences
+### Quelques différences
 
 Ci-dessous, une liste de différences entre ces approches*:
 
@@ -96,6 +98,12 @@ Ci-dessous, une liste de différences entre ces approches*:
         </tr>
     </tbody>
 </table>
+
+## Outils
+
+Que vous ayez une approche agile ou séquentielle, il est important d'avoir une palette d'outils permettant à la bonne communication autour de votre projet, en voici quelques uns:
+
+...
 
 ## Ressources utiles
 
