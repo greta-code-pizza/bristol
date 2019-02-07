@@ -26,7 +26,7 @@ Il existe deux grandes approches, *séquentielle* et *agile* donnant naissances 
 
 ## Les approches
 
-La différence principale entre les approches *séquentielle* et *agiles* se situe au niveau de la définition du projet. L'approche *séquentielle* considère la définition d'un produit fini quand l'approche *agile* cherche à s'adapter à des besoins changeants.
+La différence principale entre les approches *séquentielle* et *agile* se situe au niveau de la définition du projet. L'approche *séquentielle* considère la définition d'un produit fini quand l'approche *agile* cherche à s'adapter à des besoins changeants.
 
 ## Approche séquentielle
 
@@ -103,7 +103,13 @@ Ci-dessous, une liste de différences entre les deux approches*:
 
 Que vous ayez une approche agile ou séquentielle, il est important d'avoir une palette d'outils permettant à la bonne communication autour de votre projet, en voici quelques uns:
 
-...
+- MVP [Exemple](MVP.md)
+- Persona [Lien 1](https://openclassrooms.com/fr/courses/3013856-ux-design-decouvrez-les-fondamentaux/4089011-definissez-un-persona) [Lien 2](https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile/4517111-creez-des-personas)
+- User Story [Lien 1](https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile/4517126-inspectez-les-user-stories)
+- Wireframe, Mockup et Prototype [Exemple](VISUELS.md)
+- Arboresence [Exemple](ARBO.md)
+- Mindmap
+- Use case
 
 ## Ressources utiles
 
