@@ -191,3 +191,26 @@ $('button').click(function () {
   // Code à executer au moment du click
 });
 ```
+
+### AJAX
+
+```js
+  let data = {
+    something: "something to send"
+  }
+  
+  $.ajax({
+    url: 'http://mon-url.com',
+    type: "POST",
+    headers: {
+      "Authorization": "Bearer t0k3n"
+    },
+    data: JSON.stringify(data),
+    contentType: "application/json; charset=utf-8",
+    dataType: "json"
+  }).done(function (response) {
+    // When it's done
+  }).fail(function (error) {
+    // When it fail...
+  })
+```
